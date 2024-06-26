@@ -1,0 +1,1 @@
+This repository contains sample code from various machine learning and deep learning projects. Please note that most of my previous projects are confidential and cannot be made publicly available. The samples included here are representative of my work in these fields.
